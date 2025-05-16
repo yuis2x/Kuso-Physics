@@ -37,4 +37,5 @@ next-env.d.ts
 *.bak
 *.swp
 *note.md
-push.sh
+push*.sh
+tmp*.sh
